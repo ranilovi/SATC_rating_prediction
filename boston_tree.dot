@@ -18,7 +18,7 @@ edge [fontname=helvetica] ;
 6 -> 7 ;
 8 [label=<mse = -0.0<br/>samples = 2<br/>value = 7.4>, fillcolor="#e581395d"] ;
 6 -> 8 ;
-9 [label=<mse = 0.0<br/>samples = 1<br/>value = 7.5>, fillcolor="#e5813974"] ;
+9 [label=<mse = -0.0<br/>samples = 1<br/>value = 7.5>, fillcolor="#e5813974"] ;
 5 -> 9 ;
 10 [label=<mse = 0.0<br/>samples = 2<br/>value = 7.5>, fillcolor="#e5813974"] ;
 4 -> 10 ;
