@@ -1,0 +1,12 @@
+- correlation matrix tfidf
+
+- show data loading and import
+
+- upload all data - rm absolute paths
+
+- write conclusion
+
+- model descriptions and final models table
+
+- description of recommender func
+
