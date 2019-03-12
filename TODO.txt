@@ -1,8 +1,6 @@
 - upload all data - rm absolute paths
 
-- write conclusion
-
-- model descriptions and final models table
+(- write conclusion)
 
 - description of recommender func
 
